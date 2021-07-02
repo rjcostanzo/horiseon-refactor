@@ -4,7 +4,13 @@ This is the README file associated with my first weekly challenge submission.
 
 The code has been refactored to meet the acceptance criteria given in the instructions. All changes have been logged below.
 
+The content in this repository is viewable live at https://rjcostanzo.github.io/horiseon-refactor/.
+
 ## Changes Made
+
+#### Commit 04 (7/1/2021 @ 19:56)
+- Added screenshots to repository
+- Added link and initialized GitHub page
 
 #### Commit 03 (7/1/2021 @ 19:48)
 - Comments made in ~/index.html to summarize each part of the page
